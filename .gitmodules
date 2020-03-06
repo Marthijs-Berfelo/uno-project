@@ -1,0 +1,12 @@
+[submodule "uno-frontend"]
+	path = uno-frontend
+	url = git@github.com:Marthijs-Berfelo/uno-frontend.git
+[submodule "uno-scraper"]
+	path = uno-scraper
+	url = git@github.com:Marthijs-Berfelo/uno-scraper.git
+[submodule "uno-store"]
+	path = uno-store
+	url = git@github.com:Marthijs-Berfelo/uno-store.git
+[submodule "uno-api"]
+	path = uno-api
+	url = git@github.com:Marthijs-Berfelo/uno-api.git
